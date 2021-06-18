@@ -7,18 +7,11 @@
 // </自動產生的>
 //------------------------------------------------------------------------------
 
-namespace _1_1Practice {
+namespace _1_1Practice
+{
 
 
-    public partial class Demo {
-
-        /// <summary>
-        /// form1 控制項。
-        /// </summary>
-        /// <remarks>
-        /// 
-        /// 若要修改，請將欄位宣告從設計工具檔案移到程式碼後置檔案。
-        /// </remarks>
-        protected global::System.Web.UI.HtmlControls.HtmlForm form1;
+    public partial class Demo
+    {
     }
 }
